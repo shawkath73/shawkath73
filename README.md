@@ -1,6 +1,6 @@
-<h1>✨ Hey there, I'm <span style="color:#007ACC">Shawkath</span> 👋</h1>
+<h2>✨ Hey there, I'm <span style="color:#007ACC">Shawkath</span> 👋</h2>
 
-<h3 align="center">🚀 Aspiring Full-Stack Developer</h3>
+<h3 align="center">🌱 Learning Full-Stack Development</h3>
 
 ---
 
