@@ -36,6 +36,10 @@
 
 ---
 
+---
+
+## 🧠 LeetCode
 <div align="center">
-![](https://leetcard.jacoblin.cool/Shawkath_Muhammed?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?ext=heatmap" alt="LeetCode Stats" />
 </div>
+
