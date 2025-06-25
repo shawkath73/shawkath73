@@ -29,17 +29,16 @@
 
 ---
 
+## 🧠 LeetCode
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-shawkath-v-i-b246b6285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TheMyst48853387?t=zeWFiAcx4So4RDPWCG2X8Q&s=09)  
 
----
-
----
-
-## 🧠 LeetCode
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?ext=heatmap" alt="LeetCode Stats" />
-</div>
 
