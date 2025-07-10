@@ -4,6 +4,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=react&hide_border=true" alt="GitHub Activity Graph">
+</div>
+
+---
 ## 🛠 Tech Stack
 
 <div align="center">
