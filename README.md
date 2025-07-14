@@ -1,4 +1,3 @@
-<!-- BEGIN: Final Modern README with Clean GIF and New LeetCode Theme -->
 <!-- Header GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="wave gif" />
@@ -57,11 +56,9 @@
 
 <!-- LeetCode Section with 'nord' theme -->
 <h2>🧠 LeetCode Stats</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?theme=nord&ext=heatmap" />
-</p>
-
-<hr style="border: 1px solid #007ACC; width: 80%;">
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?ext=heatmap" alt="LeetCode Stats" />
+</div>
 
 <!-- Connect -->
 <h2>🌐 Let's Connect</h2>
