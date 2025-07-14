@@ -1,10 +1,9 @@
 <!-- BEGIN: Final Modern README with Clean GIF and New LeetCode Theme -->
-<div align="center" style="max-width: 960px; margin: auto; padding: 30px; border: 2px solid #007ACC; border-radius: 20px; background-color: #0d1117; box-shadow: 0 0 15px rgba(0,0,0,0.5); color: #ffffff;">
-
-<!-- Updated Clean & Sleek Header GIF -->
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 10px;" alt="Header GIF" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="wave gif" />
 </p>
+
 
 <!-- Name + Typing Intro -->
 <h1 align="center">Hey, I'm <span style="color:#00BFFF">Shawkath</span> 👨‍💻</h1>
@@ -23,9 +22,8 @@
 <h2>🔭 What I’m Doing Now</h2>
 <pre>
 📚 Currently Learning: MERN Stack & Deployment
-⚙️ Building: My Portfolio Website
 🧠 Solving: Daily LeetCode Challenges
-🎯 Goal: Internship-ready by next semester
+🎯 Goal: Fullstack Development 
 </pre>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
@@ -50,7 +48,7 @@
 <hr style="border: 1px solid #007ACC; width: 80%;">
 
 <!-- Contribution Graph (blue gradient style) -->
-<h2>🔥 Contribution Graph</h2>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=tokyo-night&area=true&hide_border=true" />
 </p>
