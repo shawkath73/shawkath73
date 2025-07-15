@@ -17,15 +17,6 @@
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
 
-<!-- What I'm Doing Now -->
-<h2>🔭 What I’m Doing Now</h2>
-<pre>
-📚 Currently Learning: MERN Stack & Deployment
-🧠 Solving: Daily LeetCode Challenges
-🎯 Goal: Fullstack Development 
-</pre>
-
-<hr style="border: 1px solid #007ACC; width: 80%;">
 
 <!-- Tech Stack with Icons -->
 <h2>🛠 Tech Stack</h2>
