@@ -40,7 +40,7 @@
 
 <!-- Contribution Graph (blue gradient style) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=nightowl&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=modern-lilac&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
