@@ -33,7 +33,7 @@
 <h2>🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,python,c,java,figma,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,python,c,java,figma,git,github,vscode,leetcode&perline=8" />
 </p>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
