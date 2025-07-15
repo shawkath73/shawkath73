@@ -39,12 +39,13 @@
 <hr style="border: 1px solid #007ACC; width: 80%;">
 
 <!-- Contribution Graph (blue gradient style) -->
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
+
+
 
 <!-- LeetCode Section with 'nord' theme -->
 <h2>🧠 LeetCode Stats</h2>
