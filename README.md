@@ -18,21 +18,22 @@
 <hr style="border: 1px solid #007ACC; width: 80%;">
 
 
-<!-- Tech Stack with Icons -->
-<h2>🛠 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,python,c,java,figma,git,github,vscode&perline=8" />
-</p>
-
-<hr style="border: 1px solid #007ACC; width: 80%;">
-
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shawkath73&show_icons=true&theme=midnight-purple&border_radius=10" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkath73&layout=compact&theme=midnight-purple" />
+</p>
+
+<hr style="border: 1px solid #007ACC; width: 80%;">
+
+
+<!-- Tech Stack with Icons -->
+<h2>🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,python,c,java,figma,git,github,vscode&perline=8" />
 </p>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
