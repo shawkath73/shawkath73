@@ -20,10 +20,11 @@
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawkath73&show_icons=true&theme=midnight-purple&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shawkath73&show_icons=true&theme=midnight-purple&border_radius=10&cache_seconds=1" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkath73&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkath73&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </p>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
@@ -40,7 +41,7 @@
 
 <!-- Contribution Graph (blue gradient style) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true&cache_seconds=1" alt="GitHub Activity Graph" />
 </p>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
@@ -50,10 +51,11 @@
 <!-- LeetCode Section with 'nord' theme -->
 <h2>🧠 LeetCode Stats</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?theme=catppuccinMocha&font=Iceland&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?theme=catppuccinMocha&font=Iceland&ext=heatmap&cache=1" alt="LeetCode Stats" />
 </p>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
+
 
 <!-- Connect -->
 <h2>🌐 Let's Connect</h2>
