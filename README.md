@@ -49,9 +49,11 @@
 
 <!-- LeetCode Section with 'nord' theme -->
 <h2>🧠 LeetCode Stats</h2>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?ext=heatmap" alt="LeetCode Stats" />
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?theme=catppuccinMocha&font=Iceland&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<hr style="border: 1px solid #007ACC; width: 80%;">
 
 <!-- Connect -->
 <h2>🌐 Let's Connect</h2>
