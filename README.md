@@ -50,7 +50,7 @@
 <!-- LeetCode Section with 'nord' theme -->
 <h2>🧠 LeetCode Stats</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MUHAMMED SHAWKATH V I?theme=catppuccinMocha&font=Iceland&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?theme=catppuccinMocha&font=Iceland&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
