@@ -5,9 +5,9 @@
 
 
 <!-- Name + Typing Intro -->
-<h1 align="center">Hey, I'm <span style="color:#00BFFF">Shawkath</span> 👨‍💻</h1>
+<h1 align="center">Hey, I'm <span style="color:#00BFFF">Shawkath</span></h1>
 <p align="center">
-  ⚡ Exploring Code | 💡 Breaking & Building | 🌍 Always Curious  
+  FRONTEND DEVELOPER 
 </p>
 
 <p align="center">
@@ -17,9 +17,6 @@
 
 <hr style="border: 1px solid #007ACC; width: 80%;">
 
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shawkath73&show_icons=true&theme=midnight-purple&border_radius=10&cache_seconds=1" alt="GitHub Stats" />
@@ -31,7 +28,7 @@
 
 
 <!-- Tech Stack with Icons -->
-<h2>🛠 Tech Stack</h2>
+<h3>🛠 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,python,c,java,figma,git,github,vscode,leetcode&perline=8" />
@@ -47,9 +44,6 @@
 <hr style="border: 1px solid #007ACC; width: 80%;">
 
 
-
-<!-- LeetCode Section with 'nord' theme -->
-<h2>🧠 LeetCode Stats</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?theme=catppuccinMocha&font=Iceland&ext=heatmap&cache=1" alt="LeetCode Stats" />
 </p>
@@ -57,8 +51,6 @@
 <hr style="border: 1px solid #007ACC; width: 80%;">
 
 
-<!-- Connect -->
-<h2>🌐 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-shawkath-v-i-b246b6285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
