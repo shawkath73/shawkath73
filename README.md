@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="wave gif" />
 </p>
 
+
 <!-- Name + Typing Intro -->
 <h1 align="center">Hey, I'm <span style="color:#00BFFF">Shawkath</span></h1>
 <p align="center">FRONTEND DEVELOPER</p>
@@ -10,6 +11,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+space!;I+build%2C+break+and+learn.;Learning+Never+Stops!" />
 </p>
+<hr style="border: 1px solid #007ACC; width: 20%;">
+
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true&cache_seconds=1" alt="GitHub Activity Graph" />
+</p>
+
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -18,21 +26,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkath73&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </p>
 
+
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,python,c,java,figma,git,github,vscode,leetcode&perline=8" />
 </p>
-
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true&cache_seconds=1" alt="GitHub Activity Graph" />
-</p>
+<br>
 
 <!-- LeetCode Stats -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shawkath_Muhammed?theme=catppuccinMocha&font=Iceland&ext=heatmap&cache=1" alt="LeetCode Stats" />
 </p>
+<br>
 
 <!-- Social Links -->
 <p align="center">
@@ -47,6 +53,8 @@
   </a>
 </p>
 
+
+<hr style="border: 1px solid #007ACC; width: 60%;">
 <!-- Quote -->
 <p align="center">
   <i>"Code like a poet. Debug like a detective. Build like an artist."</i> 🎨
