@@ -12,15 +12,16 @@
 </p>
 <hr style="border: 1px solid #007ACC; width: 20%;">
 
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true&cache_seconds=1" alt="GitHub Activity Graph" />
-</p>
-
 
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=shawkath73&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23137a29%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23be2545%22%7D" alt="GitHub Streak" />
+</p>
+
+
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true&cache_seconds=1" alt="GitHub Activity Graph" />
 </p>
 
 
