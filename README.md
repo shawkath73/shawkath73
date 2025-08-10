@@ -21,7 +21,7 @@
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true&cache_seconds=1" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawkath73&theme=merko&hide_border=true&cache_seconds=2" alt="GitHub Activity Graph" />
 </p>
 
 
