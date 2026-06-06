@@ -9,10 +9,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: hugomd/pacman-contribution-graph@v1.1.0
+      - uses: Platane/snk@v3
         with:
           github_user_name: shawkath73
-          output_folder: dist
+          outputs: |
+            dist/pacman-contribution-graph.svg?color_snake=yellow&color_dot_empty=#161b22&color_dot_filled=#006d77,#83c5be,#edffd6,#ffddd2,#e29578
+            dist/pacman-contribution-graph-dark.svg?color_snake=yellow&color_dot_empty=#161b22&color_dot_filled=#006d77,#83c5be,#edffd6,#ffddd2,#e29578
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
