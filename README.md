@@ -10,9 +10,6 @@
 
 </div>
 
-<br>
-
----
 
 ### About Me
 
@@ -24,18 +21,14 @@ Focus    : React · Flask · ML · REST APIs
 Status   : Open to internships & collaborations
 Site     : shawkath-folio.vercel.app
 ```
-
----
+<br>
 
 ### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,mongodb,git,github,figma,vscode,jupyter&perline=15" />
 </div>
-
 <br>
-
----
 
 ### Connect
 
@@ -48,7 +41,7 @@ Site     : shawkath-folio.vercel.app
 
 </div>
 
----
+<br>
 
 ### GitHub Stats
 
@@ -58,7 +51,7 @@ Site     : shawkath-folio.vercel.app
 
 </div>
 
----
+<br>
 
 ### Contribution Graph
 
@@ -72,7 +65,7 @@ Site     : shawkath-folio.vercel.app
 
 </div>
 
----
+<br>
 
 <div align="center">
 
