@@ -75,7 +75,7 @@ Status   : Open to internships & collaborations
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-season-animate.svg" />
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-rainbow-animate.svg" />
 </picture>
 </div>
 
