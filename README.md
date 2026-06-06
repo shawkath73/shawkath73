@@ -14,7 +14,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```yaml
 Name     : Muhammed Shawkath V I
@@ -27,30 +27,30 @@ Site     : shawkath-folio.vercel.app
 
 ---
 
-### 🧰 Tech Icons
+### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,mongodb,git,github,figma,vscode,jupyter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,mongodb,git,github,figma,vscode,jupyter&perline=15" />
 </div>
 
 <br>
 
 ---
 
-### 🔗 Connect
+### Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-shawkath-v-i-b246b6285)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://shawkath-folio.vercel.app)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheMyst48853387)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheMyst48853387)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawkathvimuhammed@gmail.com)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -60,24 +60,14 @@ Site     : shawkath-folio.vercel.app
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shawkath73&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
+### Pacman Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shawkath73/shawkath73/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph-dark.svg" />
 </picture>
 
 </div>
