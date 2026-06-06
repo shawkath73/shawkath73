@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00BFFF&height=200&section=header&text=Muhammed%20Shawkath%20V%20I&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Kerala%2C%20India&descSize=16&descAlignY=58&descColor=a0c4ff" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00BFFF&height=200&section=header&text=Muhammed%20Shawkath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Kerala%2C%20India&descSize=16&descAlignY=58&descColor=a0c4ff" />
 </div>
 
 <div align="center">
@@ -10,27 +8,27 @@
 
 </div>
 
+<br>
 
-### About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20ABOUT%20ME%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
+
+<br>
 
 ```yaml
 Name     : Muhammed Shawkath V I
 Role     : Full Stack Developer
 Location : Kerala, India
-Focus    : React · Flask · ML · REST APIs
-Status   : Open to internships & collaborations
+Focus    : React · TypeScript · Flask · MongoDB · ML
+Research : Image Dehazing Algorithms — paper in final prep
 Site     : shawkath-folio.vercel.app
+Status   : Open to internships & collaborations
 ```
+
 <br>
 
-### Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20CONNECT%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,mongodb,git,github,figma,vscode,jupyter&perline=15" />
-</div>
 <br>
-
-### Connect
 
 <div align="center">
 
@@ -43,26 +41,42 @@ Site     : shawkath-folio.vercel.app
 
 <br>
 
-### GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20TECH%20STACK%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
+
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shawkath73&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+|  |  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react" width="48"/><br>React | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js | <img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript | <img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript | <img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3 |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind | <img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python | <img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask | <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB | <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL | <img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git |
+| <img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub | <img src="https://skillicons.dev/icons?i=figma" width="48"/><br>Figma | <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code | <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap | <img src="https://skillicons.dev/icons?i=opencv" width="48"/><br>OpenCV | <img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br>Scikit-Learn |
 
 </div>
 
 <br>
 
-### Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20GITHUB%20STATS%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
+
+<br>
 
 <div align="center">
+<img src="https://streak-stats.demolab.com?user=shawkath73&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+</div>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20CONTRIBUTION%20GRAPH%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
+
+<br>
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
-
 </div>
 
 <br>
@@ -71,5 +85,6 @@ Site     : shawkath-folio.vercel.app
 
 *"Code like a poet. Debug like a detective. Build like an artist."*
 
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0a3d62,100:0d1117&height=120&section=footer" />
