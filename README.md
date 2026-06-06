@@ -60,14 +60,14 @@ Site     : shawkath-folio.vercel.app
 
 ---
 
-### Pacman Contribution Graph
+### Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-night-green.svg" />
 </picture>
 
 </div>
@@ -78,10 +78,5 @@ Site     : shawkath-folio.vercel.app
 
 *"Code like a poet. Debug like a detective. Build like an artist."*
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shawkath73&color=58a6ff&style=flat-square&label=Profile+Views)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0a3d62,100:0d1117&height=120&section=footer" />
