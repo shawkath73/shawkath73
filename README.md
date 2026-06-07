@@ -26,17 +26,16 @@ Status   : Open to internships & collaborations
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20CONNECT%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20PAC-MAN%20CONTRIBUTION%20CALENDAR%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
 
 <br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-shawkath-v-i-b246b6285)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://shawkath-folio.vercel.app)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheMyst48853387)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawkathvimuhammed@gmail.com)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <br>
@@ -67,20 +66,6 @@ Status   : Open to internships & collaborations
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20PAC-MAN%20CONTRIBUTION%20CALENDAR%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
-
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/output/pacman-contribution-graph.svg">
-</picture>
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%203D%20CONTRIBUTION%20GRAPH%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
 
 <br>
@@ -89,8 +74,23 @@ Status   : Open to internships & collaborations
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-season-animate.svg" />
-  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-rainbow-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/shawkath73/shawkath73/main/profile-3d-contrib/profile-rainbow-animate.svg" />
 </picture>
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d62,100:00BFFF&height=40&text=%E2%97%88%20CONNECT%20%E2%97%88&fontSize=15&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%"/>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-shawkath-v-i-b246b6285)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://shawkath-folio.vercel.app)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheMyst48853387)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawkathvimuhammed@gmail.com)
+
 </div>
 
 <br>
