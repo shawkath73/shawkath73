@@ -1,0 +1,24 @@
+name: Generate Pacman Graph
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+jobs:
+  pacman:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: shawkath73
+          outputs: |
+            dist/pacman-contribution-graph.svg?color_snake=yellow&color_dot_empty=#161b22&color_dot_filled=#0a3d62,#00BFFF,#58a6ff,#ffffff
+            dist/pacman-contribution-graph-dark.svg?color_snake=yellow&color_dot_empty=#161b22&color_dot_filled=#0a3d62,#00BFFF,#58a6ff,#ffffff
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
