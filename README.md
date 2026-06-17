@@ -20,7 +20,7 @@ Role     : Full Stack Developer
 Location : Kerala, India
 Focus    : React · TypeScript · Flask · MongoDB · ML
 Research : Image Dehazing Algorithms — paper in final prep
-Site     : shawkath-folio.vercel.app
+Site     : shawkath-dev.vercel.app
 Status   : Open to internships & collaborations
 ```
 
@@ -87,7 +87,7 @@ Status   : Open to internships & collaborations
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-shawkath-v-i-b246b6285)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://shawkath-folio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://shawkath-dev.vercel.app)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheMyst48853387)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawkathvimuhammed@gmail.com)
 
