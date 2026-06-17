@@ -19,7 +19,6 @@ Name     : Muhammed Shawkath V I
 Role     : Full Stack Developer
 Location : Kerala, India
 Focus    : React · TypeScript · Flask · MongoDB · ML
-Research : Image Dehazing Algorithms — paper in final prep
 Site     : shawkath-dev.vercel.app
 Status   : Open to internships & collaborations
 ```
