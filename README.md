@@ -60,7 +60,7 @@ Status   : Open to internships & collaborations
 <br>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=shawkath73&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=shawkath73&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <br>
